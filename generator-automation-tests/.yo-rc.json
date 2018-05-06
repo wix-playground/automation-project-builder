@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "michaelro",
+      "authorEmail": "michaelro@wix.com",
+      "authorUrl": "https://github.com/wix-private/automation-tests"
+    }
+  }
+}
